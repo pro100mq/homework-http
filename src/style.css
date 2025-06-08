@@ -1,0 +1,19 @@
+body{
+ background-color: royalblue;
+}
+
+.container {
+    margin-left: 450px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: #eee;
+    width: 400px;
+    height: 500px;
+    border-radius: 5px;
+}
+
+.title {
+    font-size: 25px;
+}
